@@ -80,9 +80,7 @@ src/
 ├── password_generators.py     # Password generation classes (OOP, fully typed)
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
-└── images/
-    ├── banner.jpeg            # Application header banner
-    └── streamlit-dashboard.jpeg # Dashboard screenshot
+
 ```
 
 ---

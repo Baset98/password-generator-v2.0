@@ -81,9 +81,7 @@ src/
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
 └── images/
-    ├── banner.jpeg            # Application header banner
-    └── streamlit-dashboard.jpeg # Dashboard screenshot
-```
+    
 
 ---
 
